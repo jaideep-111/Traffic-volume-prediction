@@ -21,6 +21,6 @@ date_time: a DateTime variable that shows the hour of the data collected in loca
 
 traffic_volume: a numeric variable that shows the hourly I-94 reported westbound traffic volume.
 
-RANDOMFORESTCLASSIFIER was used for making the predictions.
+RANDOMFORESTREGRESSOR was used for making the predictions.
 
 
